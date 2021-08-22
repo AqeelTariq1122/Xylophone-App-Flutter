@@ -1,27 +1,41 @@
 
 
 
-# Xylophone 🎹
+# xylophone Flutter App 🎹
 
-## Our Goal
-
-In this tutorial we will be diving into more Dart programming concepts and learning how to use open source Flutter packages. By the end of this module, you should be comfortable using Flutter packages and building repeated widgets.
+Xylophone is a Flutter native application for developing music skills. 
 
 
-## What you will create
+## Demo
 
-We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
+https://user-images.githubusercontent.com/81378260/130364416-c9a81a96-ff74-49f8-8674-4369167ffeb3.mp4
 
-## What you will learn
 
-- How to incorporate open source libraries of code into your project using Flutter Packages.
-- How to play sound on both iOS and Android.
-- How to generate repeated user interface Widgets.
-- How to use Dart functions that can take input arguments as well as return an output.
-- Dart arrow syntax for writing one line functions.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## Features
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+- Seven tiles
+- Each tile produce different sound on tap
+
+  
+## Lessons Learned
+
+This app helps me to learn the following:
+
+1. Use of audioplayers like "audioplayer"
+2. Hoew to handle repetative code
+3. buildKey() function
+4. Three types of functions
+
+    -- Simple fuction
+
+    -- Function with parameter
+
+    -- Arrow function
+    
+    
+  
+## Authors
+
+- [@AqeelTariq1122](https://www.github.com/AqeelTariq1122)
